@@ -1,0 +1,2 @@
+# ocrnc
+ocr name card
